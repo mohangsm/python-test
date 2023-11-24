@@ -5,4 +5,5 @@
 # this is second commit from dev
 
 ## this is a change from feature branch
-## dev branch change
+## dev branch change 
+## feature branch change
