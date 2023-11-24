@@ -1,6 +1,6 @@
 # python-test
 
-# test commit 1
+# test commit 1 - change
 # this is a commit from dev
 # this is second commit from dev
 
