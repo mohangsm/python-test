@@ -12,6 +12,8 @@ pipeline {
         stage('build') {
             steps {
                 echo 'This is a build step'
+		python --version
+		python test.py
             }
         }
         stage('test') {
